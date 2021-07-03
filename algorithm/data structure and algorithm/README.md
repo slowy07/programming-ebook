@@ -1,0 +1,1 @@
+- [algorithm theory SWAT M. Penttonen](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Data%20Structure%20And%20Algorithms%20Books/Algorithm%20Theory%20-%20SWAT%202002%20-%20M.%20Penttonen.pdf)
