@@ -1,0 +1,3 @@
+- [dynamic bayesian networks representation inference and learning - kevin murphy](https://theswissbay.ch/pdf/Gentoomen%20Library/Artificial%20Intelligence/Bayesian%20networks/Dynamic%20Bayesian%20Networks%20Representation%2C%20Inference%20And%20Learning%20-%20Kevin%20Patrick%20Murphy.pdf)
+- [judea pearl - probabilistic reasoning intelligent system](https://theswissbay.ch/pdf/Gentoomen%20Library/Artificial%20Intelligence/Bayesian%20networks/Judea%20Pearl%20-%20Probabilistic%20Reasoning%20in%20Intelligent%20Systems.pdf)
+- [learning bayesian networks neapolitan](https://theswissbay.ch/pdf/Gentoomen%20Library/Artificial%20Intelligence/Bayesian%20networks/Learning%20Bayesian%20Networks%20-%20Neapolitan%20R.%20E..pdf)
