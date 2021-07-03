@@ -1,1 +1,4 @@
 - [algorithm theory SWAT M. Penttonen](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Data%20Structure%20And%20Algorithms%20Books/Algorithm%20Theory%20-%20SWAT%202002%20-%20M.%20Penttonen.pdf)
+- [algorithm and Data structures - niklaus wirth](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Data%20Structure%20And%20Algorithms%20Books/Algorithms%20and%20Data%20Structures%20-%20Niklaus%20Wirth.pdf)
+- [C algorithm for real time DsP - paul Embree](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Data%20Structure%20And%20Algorithms%20Books/C%20Algorithms%20For%20Real%20Time%20DsP%20-%20Paul%20Embree.pdf)
+- [C and data structures 3rd - Nell Dale](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Data%20Structure%20And%20Algorithms%20Books/C%2B%2B%20Data%20Structures%203rd%20ed%20-%20Nell%20Dale.pdf)
